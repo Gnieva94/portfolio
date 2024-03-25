@@ -1,0 +1,29 @@
+[
+    {
+        "logo":"",
+        "title":"@GnievaSSJ",
+        "navLinks":[
+            {
+                "linkName":"LinkedIn",
+                "url":"https://www.linkedin.com/in/nievagustavo/",
+                "linkImg":""
+            },
+            {
+                "linkName":"Instagram",
+                "url":"https://www.instagram.com/gnieva.ssj/",
+                "linkImg":""
+            },
+            {
+                "linkName":"Github",
+                "url":"https://github.com/Gnieva94",
+                "linkImg":""
+            },
+            {
+                "linkName":"Email",
+                "url":"mailto:gnieva.1410@gmail.com",
+                "linkImg":""
+            }
+        ],
+        "aboutMe":"Mi nombre es Nieva Gustavo, soy graduado de la Tecnicatura Universitaria en programación de la UTN FRGP, Argentina. Te invito a contactarme mediante mis redes sociales o visitar mis proyectos en los links debajo. Este es el Reto 01 del WinterHack 2023 de @Codearock"
+    }
+]
